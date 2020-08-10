@@ -1,4 +1,4 @@
-[csv-json-tools-ts](../README.md) › [Globals](../globals.md) › ["src/utils/CsvJson"](_src_utils_csvjson_.md)
+[csv-writer](../README.md) › [Globals](../globals.md) › ["src/utils/CsvJson"](_src_utils_csvjson_.md)
 
 # Module: "src/utils/CsvJson"
 
@@ -18,7 +18,7 @@
 
 ▸ **titleCase**(`text`: string): *string*
 
-*Defined in [src/utils/CsvJson.ts:16](https://github.com/edmundpf/csv-json-tools-ts/blob/b9693d4/src/utils/CsvJson.ts#L16)*
+*Defined in [src/utils/CsvJson.ts:16](https://github.com/edmundpf/csv-json-tools-ts/blob/18ba08a/src/utils/CsvJson.ts#L16)*
 
 **Parameters:**
 
