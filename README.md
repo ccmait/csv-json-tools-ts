@@ -11,6 +11,7 @@ $ npm i -S csv-json-tools-ts
 ## Usage
 
 ```javascript
+import CsvJson from 'csv-json-tools-ts'
 ```
 
 ## Documentation
